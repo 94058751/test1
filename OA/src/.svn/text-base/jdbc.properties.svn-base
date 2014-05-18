@@ -1,0 +1,4 @@
+jdbcUrl =org.hibernate.dialect.MYSQL5InnoDBialect
+driverClass =com.mysql.jdbc.Driver
+user =root
+password =123

@@ -1,0 +1,40 @@
+8
+
+dir
+15
+http://localhost:7070/svn/oatest/OA/src/cn/oa/domain
+http://localhost:7070/svn/oatest
+
+
+
+2014-03-29T07:29:05.795190Z
+15
+wangzhizhong
+
+
+svn:special svn:externals svn:needs-lock
+
+User.hbm.xml
+file
+
+
+
+
+2014-03-29T07:23:43.038730Z
+b1b19f593f365cb6a6d9995e8c26767c
+2014-03-29T07:29:05.795190Z
+15
+wangzhizhong
+
+User.java
+file
+
+
+
+
+2014-03-29T07:20:28.649611Z
+7bac0bab1a1f983faeaa32c991aafb08
+2014-03-29T07:29:05.795190Z
+15
+wangzhizhong
+

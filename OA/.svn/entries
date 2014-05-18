@@ -1,0 +1,76 @@
+8
+
+dir
+2
+http://localhost:7070/svn/oatest/OA
+http://localhost:7070/svn/oatest
+
+
+
+2014-03-17T15:51:29.781609Z
+2
+wangzhizhong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5672898f-6dc6-7f45-9a3f-4160fc0cb1f4
+
+.classpath
+file
+15
+
+
+
+2014-03-29T07:17:28.953333Z
+f7756283f6c815b9480bcb6d69088aab
+2014-03-29T07:29:05.795190Z
+15
+wangzhizhong
+
+WebRoot
+dir
+
+.mymetadata
+file
+
+
+
+
+2014-03-17T15:52:26.309843Z
+e9732717aac9ba7457cc495f8d3a25f9
+2014-03-17T15:51:29.781609Z
+2
+wangzhizhong
+
+.project
+file
+14
+
+
+
+2014-03-28T14:51:51.853884Z
+86faea122228ce9f04e30221259c10d9
+2014-03-28T16:07:48.319499Z
+14
+wangzhizhong
+
+src
+dir
+
+.myeclipse
+dir
+
+.settings
+dir
+

@@ -1,0 +1,46 @@
+8
+
+dir
+2
+http://localhost:7070/svn/oatest/OA/WebRoot/WEB-INF
+http://localhost:7070/svn/oatest
+
+
+
+2014-03-17T15:51:29.781609Z
+2
+wangzhizhong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5672898f-6dc6-7f45-9a3f-4160fc0cb1f4
+
+lib
+dir
+
+web.xml
+file
+14
+
+
+
+2014-03-28T15:20:41.491814Z
+d1cd5be4a3e9329e07068c2996f988f7
+2014-03-28T16:07:48.319499Z
+14
+wangzhizhong
+
+classes
+dir
+

@@ -1,0 +1,52 @@
+8
+
+dir
+14
+http://localhost:7070/svn/oatest/OA/src/cn/oa/test
+http://localhost:7070/svn/oatest
+
+
+
+2014-03-28T16:07:48.319499Z
+14
+wangzhizhong
+
+
+svn:special svn:externals svn:needs-lock
+
+TestService.java
+file
+15
+
+
+
+2014-03-29T07:27:29.604688Z
+04bf5eb163ec3cd3c12b0cb000247eaf
+2014-03-29T07:29:05.795190Z
+15
+wangzhizhong
+
+SpringTest.java
+file
+15
+
+
+
+2014-03-29T07:26:09.059081Z
+15c9668d912657435ebfe085f2186b7e
+2014-03-29T07:29:05.795190Z
+15
+wangzhizhong
+
+TestAction.java
+file
+
+
+
+
+2014-03-28T15:33:02.454195Z
+1e357ad7513c0d41cca6c0bcbe5479ca
+2014-03-28T16:07:48.319499Z
+14
+wangzhizhong
+

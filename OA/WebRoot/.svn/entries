@@ -1,0 +1,58 @@
+8
+
+dir
+2
+http://localhost:7070/svn/oatest/OA/WebRoot
+http://localhost:7070/svn/oatest
+
+
+
+2014-03-17T15:51:29.781609Z
+2
+wangzhizhong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5672898f-6dc6-7f45-9a3f-4160fc0cb1f4
+
+META-INF
+dir
+
+index.jsp
+file
+4
+
+
+
+2014-03-22T16:45:26.020793Z
+bc547d4d360dc9828ac93799a38811d0
+2014-03-22T16:45:41.189661Z
+4
+wangzhizhong
+
+WEB-INF
+dir
+
+test.jsp
+file
+14
+
+
+
+2014-03-28T12:24:45.632053Z
+bc30c29c12d8724236464db096f8c7a8
+2014-03-28T16:07:48.319499Z
+14
+wangzhizhong
+

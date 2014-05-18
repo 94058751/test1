@@ -1,0 +1,19 @@
+8
+
+dir
+14
+http://localhost:7070/svn/oatest/OA/src/cn
+http://localhost:7070/svn/oatest
+
+
+
+2014-03-28T16:07:48.319499Z
+14
+wangzhizhong
+
+
+svn:special svn:externals svn:needs-lock
+
+oa
+dir
+
